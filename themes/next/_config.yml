@@ -252,6 +252,13 @@ post_copyright:
   enable: true
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
+  
+  
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
 
 
 # ---------------------------------------------------------------
